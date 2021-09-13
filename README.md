@@ -13,10 +13,15 @@ npm i
 npm run test
 ```
 
-## 🪚 Handle Numbers
+## 🔨 Handle Numbers
 
 - [Create Percentage String (PT-BR)](https://github.com/profdangarcia/typescript-tool-box/tree/main/CreatePercentageString)
+
+## 🔧 Handle Strings
+
+- [Fix String Encode](https://github.com/profdangarcia/typescript-tool-box/tree/main/FixStringEncode)
 
 ## 🔧 Handle Arrays
 
 - [Filter Array by Term and Keys](https://github.com/profdangarcia/typescript-tool-box/tree/main/FilterArrayByTermAndKeys)
+
