@@ -1,6 +1,6 @@
 import handleTwoDigitValue from './handleTwoDigitValue';
 
-describe('#Utils - HandleTwoDigitValue', () => {
+describe('#ToolBox - Handle Two Digit Value', () => {
   it('should correctly parse a 1 digit value', () => {
     const parsedValue = handleTwoDigitValue('1');
     expect(parsedValue).toEqual('01');

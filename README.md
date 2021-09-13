@@ -27,3 +27,5 @@ npm run test
 
 - [Filter Array by Term and Keys](https://github.com/profdangarcia/typescript-tool-box/tree/main/FilterArrayByTermAndKeys)
 
+- [Order Array for Key](https://github.com/profdangarcia/typescript-tool-box/tree/main/OrderArrayForKey)
+
