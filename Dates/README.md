@@ -11,5 +11,7 @@ check if you have the library in your dependencies.
 
 - [Parse Full Date](https://github.com/profdangarcia/typescript-tool-box/tree/main/Dates/ParseFullDate)
 
+- [Parse UTC to Date and Hour](https://github.com/profdangarcia/typescript-tool-box/tree/main/Dates/ParseUTCToDateHour)
+
 
 
